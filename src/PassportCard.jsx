@@ -66,7 +66,7 @@ const PassportCard = ({ passport, animate, getAvatarUrl, downloadPassport, mintP
           className="neon-glow"
           style={{
             padding: '10px 24px',
-            borderRadius: 8,
+            borderRadius: 7,
             background: 'linear-gradient(90deg, #0ff, #08f)',
             color: '#181c24',
             fontWeight: 'bold',
