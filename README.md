@@ -2,7 +2,7 @@
 
 A futuristic, cyberpunk-themed web application that generates unique digital passports for citizens of Warden City. Built with React, Vite, and modern web technologies.
 
-## ✨ Features
+## Features of the app
 
 ### 🎭 **Personalization**
 - **Custom Names**: Enter your name to become a citizen of Warden City
